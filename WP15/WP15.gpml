@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r28771" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | MaintBot | Evelo | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r28780" Author="Evelo | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The selenium-centred micronutrient biological network. The most relevant biochemical processes related to selenium in the context of metabolism, oxidation and inflammation are represented. Also, the compartmental separation (intracellular vs. plasma) is presented, identifying the selenium centred plasma metabolome.
 A selenoprotein database exists at: http://www.selenodb.org.</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
@@ -591,7 +591,7 @@ A selenoprotein database exists at: http://www.selenodb.org.</Comment>
   </DataNode>
   <DataNode TextLabel="FAD" GraphId="f335c" Type="Metabolite">
     <Graphics CenterX="609.3333333333334" CenterY="317.31666666666666" Width="39.333333333333336" Height="14.033333333333333" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="PubChem" ID="703" />
+    <Xref Database="HMDB" ID="HMDB01248" />
   </DataNode>
   <DataNode TextLabel="T" GraphId="f3fa9" Type="Metabolite">
     <Graphics CenterX="1627.8333333333333" CenterY="343.1666666666667" Width="15.0" Height="14.333333333333334" ZOrder="32768" FontSize="12" Valign="Middle" Color="cccc00" />
