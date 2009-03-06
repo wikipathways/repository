@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r28768" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | MaintBot | Evelo | " Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="selenium" Data-Source="WikiPathways" Version="WP15_r28771" Author="Egoyenechea | AlexanderPico | Thomas | Ommen | MaintBot | Evelo | " Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The selenium-centred micronutrient biological network. The most relevant biochemical processes related to selenium in the context of metabolism, oxidation and inflammation are represented. Also, the compartmental separation (intracellular vs. plasma) is presented, identifying the selenium centred plasma metabolome.
 A selenoprotein database exists at: http://www.selenodb.org.</Comment>
   <Comment Source="WikiPathways-category">Cellular Process</Comment>
@@ -12,9 +12,9 @@ A selenoprotein database exists at: http://www.selenodb.org.</Comment>
     <Graphics CenterX="2046.9833333333333" CenterY="561.65" Width="44.03333333333333" Height="21.366666666666667" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Glutathione disulfide" GraphId="a4955" Type="Metabolite">
+  <DataNode TextLabel="glutathione disulfide" GraphId="a4955" Type="Metabolite">
     <Graphics CenterX="845.5" CenterY="258.81666666666666" Width="110.33333333333333" Height="23.7" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="PubChem" ID="65359" />
+    <Xref Database="HMDB" ID="HMDB00656" />
   </DataNode>
   <DataNode TextLabel="C22:5 (n-6)" GraphId="a4bee" Type="Metabolite">
     <Graphics CenterX="1781.6666666666667" CenterY="691.65" Width="60.0" Height="24.033333333333335" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -63,7 +63,7 @@ A selenoprotein database exists at: http://www.selenodb.org.</Comment>
   <DataNode TextLabel="Leukotriene F4" GraphId="a92e1" Type="Metabolite">
     <BiopaxRef>dd2</BiopaxRef>
     <Graphics CenterX="714.6666666666666" CenterY="691.3166666666667" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="HMDB" ID="HMDB06465" />
   </DataNode>
   <DataNode TextLabel="Leukotriene A4" GraphId="a99e8" Type="Metabolite">
     <Graphics CenterX="655.6666666666666" CenterY="515.3166666666667" Width="79.33333333333333" Height="20.7" ZOrder="32768" FontSize="12" Valign="Middle" />
